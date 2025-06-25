@@ -4,7 +4,7 @@
   "description": "Backend for real-time collaborative whiteboard",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "dev": "nodemon index.js"
   },
   "dependencies": {
