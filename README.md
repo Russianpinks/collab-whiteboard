@@ -56,6 +56,9 @@ npm start
 Frontend: http://localhost:3000
 Backend: http://localhost:5000
 
+Deployment Link:-
+https://collab-whiteboard-3jb2.onrender.com
+
 🧾 Demo Video
 📹 https://youtu.be/3DjpmObiuik?si=Ld2uU5ijcAWN_DRC
 
